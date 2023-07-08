@@ -1,0 +1,12 @@
+*{
+    
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+/* global css */
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+/* header area css */
